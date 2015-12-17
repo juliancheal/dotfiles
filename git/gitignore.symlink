@@ -1,0 +1,15 @@
+# OS X
+._*
+.AppleDouble
+.DS_Store
+.localized
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+*.swp
+
+# Development
+npm-debug.log
