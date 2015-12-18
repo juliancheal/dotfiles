@@ -13,7 +13,6 @@ brew 'openssl'
 brew 'nvm'
 brew 'readline'
 brew 'postgresql'
-brew 'services'
 brew 'zsh'
 
 cask '1password'
